@@ -1,0 +1,55 @@
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Arcanoid.resources
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Menu.resources
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Arcanoid.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Menu.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\КП\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Arcanoid.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Menu.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\1 КУРСССССССССССССС\KP\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Arcanoid.resources
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Menu.resources
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Arcanoid.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Menu.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\CAHR\Desktop\ІДЗ Контрольні Лабараторні\2 Курсссс\ООП\KP\Arcanoid 2.0\Arcanoid\obj\Debug\Arcanoid.pdb
